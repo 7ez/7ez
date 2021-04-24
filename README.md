@@ -12,4 +12,4 @@
 
 - ⚡ Fun fact: I'm dumb
 
-![asahi-web](https://github-readme-stats.vercel.app/api/pin/?username=a0chi&repo=asahi-web)
+[![asahi-web](https://github-readme-stats.vercel.app/api/pin/?username=a0chi&repo=asahi-web)](https://github.com/a0chi/asahi-web)
