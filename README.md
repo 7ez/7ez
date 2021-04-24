@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![a0chi's GitHub stats](https://github-readme-stats.vercel.app/api?username=a0chi&show_icons=true&theme=radical&count_private=true)
+![a0chi's GitHub stats](https://github-readme-stats.vercel.app/api?username=a0chi&show_icons=true&theme=radical&count_private=true)
 
 - 🔭 I’m currently working on asahi-web
  
@@ -12,4 +12,4 @@
 
 - ⚡ Fun fact: I'm dumb
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a0chi&layout=compact&theme=radical)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a0chi&layout=compact&theme=radical)
