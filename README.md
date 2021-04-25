@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![a0chi's GitHub stats](https://github-readme-stats.vercel.app/api?username=a0chi&show_icons=true&count_private=true)
+![7ez's GitHub stats](https://github-readme-stats.vercel.app/api?username=7ez&show_icons=true&count_private=true)
 
-- 🔭 I’m currently working on asahi-web
+- 🔭 I’m currently working on [asahi-web](https:/github.com/7ez/asahi-web)
  
 - 🌱 I’m currently learning Python
  
@@ -12,4 +12,4 @@
 
 - ⚡ Fun fact: I'm dumb
 
-[![asahi-web](https://github-readme-stats.vercel.app/api/pin/?username=a0chi&repo=asahi-web)](https://github.com/a0chi/asahi-web)
+[![asahi-web](https://github-readme-stats.vercel.app/api/pin/?username=7ez&repo=asahi-web)](https://github.com/7ez/asahi-web)
