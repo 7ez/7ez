@@ -8,8 +8,6 @@
  
 - 💬 Ask me about anything
  
-- 📫 How to reach me: Aochi#3209 on discord
+- 📫 How to reach me: Aochi#0101 on discord
 
 - ⚡ Fun fact: I'm dumb
-
-[![asahi-web](https://github-readme-stats.vercel.app/api/pin/?username=7ez&repo=asahi-web)](https://github.com/7ez/asahi-web)
