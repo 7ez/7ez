@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on a lot of shit
  
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Go and Python (mostly Go)
  
 - 💬 Ask me about anything
  
