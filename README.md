@@ -11,3 +11,5 @@
 - 📫 How to reach me: Aochi#0101 on discord
 
 - ⚡ Fun fact: I'm dumb
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=7ez)]
