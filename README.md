@@ -12,4 +12,4 @@
 
 - ⚡ Fun fact: I'm dumb
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=7ez&show_icons=true&count_private=true)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=7ez&show_icons=true&count_private=true)
