@@ -8,7 +8,7 @@
 
 - 💬 Ask me about anything
 
-- 📫 How to reach me: Aochi#4431 on discord
+- 📫 How to reach me: Aochi#0001 on discord
 
 - ⚡ Fun fact: I'm so lazy
 
