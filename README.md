@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![7ez's GitHub stats](https://github-readme-stats.vercel.app/api?username=7ez&show_icons=true&count_private=true)
+![7ez's GitHub stats](https://github-readme-stats.vercel.app/api?username=7ez&show_icons=true&count_private=true&theme=dark)
 
 - 🔭 I’m currently working on nothing
  
@@ -12,4 +12,4 @@
 
 - ⚡ Fun fact: I'm so lazy
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=7ez&show_icons=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=7ez&show_icons=true&count_private=true&theme=dark)
