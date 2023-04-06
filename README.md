@@ -2,6 +2,8 @@
 
 ![7ez's GitHub stats](https://github-readme-stats.vercel.app/api?username=7ez&show_icons=true&count_private=true&theme=dark)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=7ez&theme=dark)](https://git.io/streak-stats)
+
 - 🔭 I’m currently working on my Discord bot.
 
 - 🌱 I know C#, Python and TypeScript.
