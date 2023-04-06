@@ -2,13 +2,13 @@
 
 ![7ez's GitHub stats](https://github-readme-stats.vercel.app/api?username=7ez&show_icons=true&count_private=true&theme=dark)
 
-- 🔭 I’m currently working on nothing
+- 🔭 I’m currently working on my Discord bot.
 
-- 🌱 I know Go, C#, Python, C++, HTML and CSS.
+- 🌱 I know C#, Python and TypeScript.
 
-- 💬 Ask me about anything
+- 💬 Ask me anything, and I'll try to help you.
 
-- 📫 How to reach me: Aochi#0001 on discord
+- 📫 How to reach me: Aochi#0502 on Discord.
 
 - ⚡ Fun fact: I'm so lazy
 
