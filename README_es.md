@@ -2,13 +2,13 @@
 
 ![Estadísticas de 7ez en Github](https://github-readme-stats.vercel.app/api?username=7ez&show_icons=true&count_private=true&theme=dark&show_icons=true)
 
-- 🔭 Actualmente no estoy trabajando en nada
+- 🔭 Actualmente estoy trabajando en mi bot Discord.
 
 - 🌱 Conozco C#, Python y TypeScript.
 
-- 💬 Pregúntame sobre cualquier cosa
+- 💬 Pregúntame cualquier cosa e intentaré ayudarte.
 
-- 📫 Cómo localizarme: Aochi#0502 en discord
+- 📫 Cómo localizarme: Aochi#0502 en Discord.
 
 - ⚡ Dato curioso: soy muy vago
 
