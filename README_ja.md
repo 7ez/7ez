@@ -4,7 +4,7 @@
 
 - 🔭 現在、 Discordのbot を作成中です。
 
-- 🌱 C#、 Python、 TypeScript は知っています。
+- 🌱 C#、Python、TypeScript は知っています。
 
 - 💬 何でも聞いてください。
 
