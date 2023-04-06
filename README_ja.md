@@ -2,7 +2,7 @@
 
 ![7ezのGitHub統計情報](https://github-readme-stats.vercel.app/api?username=7ez&show_icons=true&count_private=true&theme=dark&show_icons=true)
 
-- 🔭 現在、 Discordのbot を作成中です。
+- 🔭 現在、Discordのbot を作成中です。
 
 - 🌱 C#、Python、TypeScript は知っています。
 
