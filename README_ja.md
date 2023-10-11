@@ -4,7 +4,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=7ez&theme=dark&locale=ja)](https://git.io/streak-stats)
 
-- 🔭 現在、僕はcirclebotを制作している
+- 🔭 現在、僕はcirclebotを制作している。
 
 - 🌱 C#、C++、Python、TypeScript は知っています。
 
