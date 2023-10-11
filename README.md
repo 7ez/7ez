@@ -4,13 +4,13 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=7ez&theme=dark)](https://git.io/streak-stats)
 
-- 🔭 I’m currently working on my Discord bot.
+- 🔭 I’m currently working on circlebot.
 
 - 🌱 I know C#, C++, Python and TypeScript.
 
 - 💬 Ask me anything, and I'll try to help you.
 
-- 📫 How to reach me: Aochi#0502 on Discord.
+- 📫 How to reach me: aochi. on Discord.
 
 - ⚡ Fun fact: I'm so lazy
 
