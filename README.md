@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on my Discord bot.
 
-- 🌱 I know C#, Python and TypeScript.
+- 🌱 I know C#, C++, Python and TypeScript.
 
 - 💬 Ask me anything, and I'll try to help you.
 
