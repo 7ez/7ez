@@ -4,7 +4,7 @@
 
 [![Racha GitHub](https://streak-stats.demolab.com?user=7ez&theme=dark&locale=es)](https://git.io/streak-stats)
 
-- 🔭 Actualmente estoy trabajando en mi bot Discord.
+- 🔭 Actualmente estoy trabajando en circlebot.
 
 - 🌱 Conozco C#, C++, Python y TypeScript.
 
