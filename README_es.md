@@ -10,7 +10,7 @@
 
 - 💬 Pregúntame cualquier cosa e intentaré ayudarte.
 
-- 📫 Cómo localizarme: Aochi#0502 en Discord.
+- 📫 Cómo localizarme: aochi. en Discord.
 
 - ⚡ Dato curioso: soy muy vago
 
