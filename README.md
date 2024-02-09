@@ -1,4 +1,4 @@
-### 👋 Hi there
+### 👋 Hi there!
 
 [Español](https://github.com/7ez/7ez/blob/7ez/README_es.md)
 [日本語](https://github.com/7ez/7ez/blob/7ez/README_ja.md)
